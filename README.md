@@ -4,7 +4,7 @@
 
 ### 🚀 Aspiring Software Engineer | 💻 Java Developer | 🧪 Automation Tester | 🤖 CSE-AI Graduate
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+%7C+Testing+%7C+Learning+%7C+Improving;Java+%7C+Selenium;Exploring+AI%2FML+%7C+Automation+%7C+Software+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+%7C+Testing+%7C+Learning+%7C+Improving;Java+%7C+Selenium; Exploring+AI%2FML+%7C+Automation+%7C+Software+Engineering" />
 
 </div>
 
