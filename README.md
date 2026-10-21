@@ -1,11 +1,14 @@
-<div align="center">
 
-<div align="center">
+<p align="center">
   <img
     src="./bg.jpg"
-    alt="Earth Horizon Space Banner"
+    alt="Space Background"
     width="100%"
   />
+</p>
+
+
+<div align="center">
 </div>
 
 # 👋 Hey, I'm Mohammed Sahil
