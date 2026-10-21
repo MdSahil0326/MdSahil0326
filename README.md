@@ -1,5 +1,13 @@
 <div align="center">
 
+<div align="center">
+  <img
+    src="./bg.jpg"
+    alt="Earth Horizon Space Banner"
+    width="100%"
+  />
+</div>
+
 # 👋 Hey, I'm Mohammed Sahil
 
 ### 🚀 Aspiring Software Engineer | 💻 Java Developer | 🧪 Automation Tester | 🤖 CSE-AI Graduate
