@@ -1,9 +1,11 @@
 
 <p align="center">
   <img
-    src="./bg.jpg"
-    alt="Space Background"
+    src="https://github.com/MdSahil0326/MdSahil0326/blob/main/bg.jpg?raw=true"
     width="100%"
+    height="220"
+    alt="Space Banner"
+    style="object-fit: cover;"
   />
 </p>
 
